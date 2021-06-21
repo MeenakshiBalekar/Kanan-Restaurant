@@ -217,11 +217,11 @@ nav .navbar a{
     -o-transition:all .3s ease;
 }
 nav .navbar a.active{
-    background:var(--primary);
+    background:#51b6c2;
     color:var(--pure);
 }
 nav .navbar a:hover{
-    background:var(--primary);
+    background:#51b6c2;
     color:var(--pure); 
 }
 .magic-shadow{
@@ -289,7 +289,7 @@ header.hero h1{
     margin-bottom:0.75rem;
 }
 header.hero h1 span{
-    color:var(--primary);
+    color:#51b6c2;
 }
 header.hero p{
     font-family: "Raleway-medium";
@@ -449,7 +449,7 @@ section.top-products .food-slider .food-card button:hover{
     width: 30px;
     height:30px;
     border: none;
-    background:var(--primary);
+    background:#51b6c2;
     border-radius:4px;
     -webkit-border-radius:4px;
     -moz-border-radius:4px;
@@ -540,7 +540,7 @@ section.our-services .service-card p{
     margin-bottom:1rem;
 }
 .text-primary{
-    color:var(--primary);
+    color:#51b6c2;
 }
 
 section.big-deal {
@@ -771,10 +771,10 @@ footer .box ul li a{
     -o-transition: all .3s ease;
 }
 footer .box ul li a:hover{
-    color:var(--primary);
+    color:#51b6c2;
 }
 footer .box h3{
-    border-bottom:1px solid var(--primary);
+    border-bottom:1px solid #51b6c2;
     padding-bottom:1rem;
     margin-bottom:1rem;
 }
